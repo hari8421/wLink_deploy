@@ -1,0 +1,7 @@
+Eccommerce BY wLinkStudios. All rights reserved.
+==============================================
+Application Version : 1.0
+Application Title : Ecommerce Website - Vendor Based
+
+-Modification or duplication of the Jar/any of the deployed code is subjected to lawsuit.
+==============================================
